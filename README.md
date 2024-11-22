@@ -14,6 +14,10 @@ O sistema foi desenvolvido utilizando os seguintes elementos:
 </p>
 
 <p><h1>3. Hardware</h1><br>
+
+![device](https://github.com/user-attachments/assets/cd3b280f-f4db-41ef-8518-e4759a40e0a7)
+
+  
 O projeto foi implementado utilizando simulação em vez de hardware físico. O ambiente escolhido foi o Wokwi para VScode, um simulador para dispositivos como Arduino, ESP32 e Raspberry Pi. Ele possibilitou a integração com bibliotecas e protótipos de maneira ágil e eficaz.
 
 
