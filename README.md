@@ -75,7 +75,7 @@ Logo após, inicie o projeto utilizando o platformIO:
 Por último, abra o arquivo diagram.json para iniciar plataforma, e em seguida clique na seta verde do painel para iniciar a simulação.
 ![image](https://github.com/user-attachments/assets/a5847a8a-273a-488a-b508-d86b489b3de8)
 
-Utilize os potenciometros para ajustar voltagem e corrente:
+Utilize os potenciometros para ajustar voltagem e corrente:<br>
 ![image](https://github.com/user-attachments/assets/82396a16-bd0c-42e8-aa36-7141d08b681f)
 
 </p>
