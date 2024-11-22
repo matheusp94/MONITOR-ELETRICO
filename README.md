@@ -23,6 +23,10 @@ LEDs: Indicadores visuais para estados de operação (ex.: custo da energia).
 </p>
 
 <p><h1>4. Dashboard</h1><br>
+
+![dashboard](https://github.com/user-attachments/assets/8115cbd9-633e-4bcc-8d29-e5933e70a692)
+
+  
 Foi criado um dashboard no Blynk para monitoramento e controle dos dispositivos conectados ao sistema. O dashboard permite:
 <br>
 <br>Visualização em tempo real dos dados:
