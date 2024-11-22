@@ -70,13 +70,16 @@ Este projeto demonstra como integrar tecnologias IoT para coletar, processar e m
 <p><h1>7. Instruções teste codigo fonte</h1><br>
 Utilize o seguinte vídeo para a instalação do Wokwi para Vscode: https://www.youtube.com/watch?v=3WVz2XdadD0<br>
 Logo após, inicie o projeto utilizando o platformIO:
-![image](https://github.com/user-attachments/assets/44f752cd-03da-4b32-91fa-d9b9766a44cf)
+
+  ![image](https://github.com/user-attachments/assets/44f752cd-03da-4b32-91fa-d9b9766a44cf)
 
 Por último, abra o arquivo diagram.json para iniciar plataforma, e em seguida clique na seta verde do painel para iniciar a simulação.
+
 ![image](https://github.com/user-attachments/assets/a5847a8a-273a-488a-b508-d86b489b3de8)
 
 Utilize os potenciometros para ajustar voltagem e corrente:<br>
-![image](https://github.com/user-attachments/assets/82396a16-bd0c-42e8-aa36-7141d08b681f)
+
+image](https://github.com/user-attachments/assets/82396a16-bd0c-42e8-aa36-7141d08b681f)
 
 </p>
 
