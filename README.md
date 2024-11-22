@@ -22,7 +22,7 @@ Potenciômetros: Utilizado para simular a utilização de energia de um disposit
 LEDs: Indicadores visuais para estados de operação (ex.: custo da energia).
 </p>
 
-<p><h1>4. Dashboard</h1>h1><br>
+<p><h1>4. Dashboard</h1><br>
 Foi criado um dashboard no Blynk para monitoramento e controle dos dispositivos conectados ao sistema. O dashboard permite:
 <br>
 <br>Visualização em tempo real dos dados:
