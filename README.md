@@ -1,3 +1,11 @@
+<b>equipe</b>:
+
+<br>99792 - Matheus Matos Pereira
+<br>550269 - Diego Henrique Santos de Oliveira
+<br>99554 - Julianny Araújo Pereira
+<br>99468 - Karen Vitória Jesus da Silva
+<br>551130 - Júlia de Fatima Queiroz
+
 <p><h1>1. Proposta</h1><br>
 O objetivo deste projeto é desenvolver um sistema de Internet das Coisas (IoT) capaz de monitorar e controlar dispositivos em tempo real, utilizando sensores e atuadores integrados a um dashboard intuitivo para fins educacionais. A aplicação visa monitorar o consumo de energia em uma escola média e permitir ações baseadas nos dados coletados, como controle de dispositivos e envio de notificações, ao mesmo tempo em que poderia ser feita a instrução dos alunos sobre a otimização do consumo de energia elétrica.
 </p>
