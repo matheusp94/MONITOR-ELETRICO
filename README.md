@@ -79,7 +79,7 @@ Por último, abra o arquivo diagram.json para iniciar plataforma, e em seguida c
 
 Utilize os potenciometros para ajustar voltagem e corrente:<br>
 
-image](https://github.com/user-attachments/assets/82396a16-bd0c-42e8-aa36-7141d08b681f)
+![image](https://github.com/user-attachments/assets/82396a16-bd0c-42e8-aa36-7141d08b681f)
 
 </p>
 
