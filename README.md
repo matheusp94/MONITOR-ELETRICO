@@ -1,4 +1,4 @@
-<b>equipe<br>:
+<b>equipe</b>:
 <br>99792 - Matheus Matos Pereira
 <br>550269 - Diego Henrique Santos de Oliveira
 <br>99554 - Julianny Araújo Pereira
